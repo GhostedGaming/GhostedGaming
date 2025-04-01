@@ -1,7 +1,8 @@
 # About me
-### Hi my name is Gavin I am in middle school(soon to be highschool) and love to code.
-### I love to help people and especially people with dissabilities!
-### I prefer to be called Ghosted.
+Hi my name is Gavin I am in middle school(soon to be highschool) and love to code.
+I love to help people and especially people with dissabilities!
+I prefer to be called Ghosted.
+Please help me in my journey to make eclipse OS
 
 # My goals
 - Make poeple happy
@@ -9,5 +10,5 @@
 - Help people with their projects
 - Make an OS
 
-  # Socials
+# Socials
 [Discord](discord.com)
