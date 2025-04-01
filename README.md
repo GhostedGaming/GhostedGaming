@@ -1,10 +1,3 @@
-```
-{
-  "firstName": "Gavin",
-  "age": 13
-}
-```
-
 # About me
 ### Hi my name is Gavin I am in middle school(soon to be highschool) and love to code.
 ### I love to help people and especially people with dissabilities!
