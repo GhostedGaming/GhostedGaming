@@ -1,14 +1,14 @@
-# About me
-Hi my name is Gavin I am in middle school(soon to be highschool) and love to code.
-I love to help people and especially people with dissabilities!
-I prefer to be called Ghosted.
-Please help me in my journey to make eclipse OS
+# About Me
 
-# My goals
-- Make poeple happy
-- Help people with dissabilities
-- Help people with their projects
-- Make an OS
+Hi, my name is Gavin, but I prefer to be called Ghosted. I am in middle school (soon to be high school) and I love to code. I am passionate about helping people, especially those with disabilities. Join me on my journey to create Eclipse OS!
 
-# Socials
-[Discord](discord.com)
+## My Goals
+
+- Make people happy
+- Help people with disabilities
+- Assist others with their projects
+- Develop an operating system
+
+## Socials
+
+[Discord](https://discord.com)
