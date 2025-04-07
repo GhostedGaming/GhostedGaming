@@ -11,4 +11,4 @@ Hi, my name is Gavin, but I prefer to be called Ghosted. I am in middle school (
 
 ## Socials
 
-[Discord](https://discord.com)
+[Discord](https://discord.com) @dudeofsteel133
